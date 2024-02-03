@@ -1,2 +1,6 @@
-# dissertation
+# Dissertation
 Sponsored dissertation for the Scottish Government on "Estimating Tariff Equivalents of Service Trade Restrictions"
+
+## Abstract
+
+This paper provides new ad-valorem tariff equivalents of trade restrictions in seven service sectors for 50 countries. I utilise the novel International Trade and Production Database for Estimation (ITPD-E) Release 2 developed by Borchert et al. (2022b) and the OECD's Services Trade Restrictiveness Index (STRI) in a detailed sector level structural gravity model to obtain estimates for the impact of restrictions to trade in services. There are three main findings. First, more restrictive services trade policies are associated with lower international trade in all seven service sectors analysed. Second, estimated trade costs are considerably lower for trade between European Economic Area (EEA) members than between countries on a most-favoured nation (MFN) status. Third, there is significant sectoral heterogeneity in the estimated trade costs across service sectors. The findings show that trade costs in services are high. However, there are large differences in trade costs across service sectors, suggesting that policymakers should be aware of different business models, competition challenges, and regulatory barriers within service sectors.
